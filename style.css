@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.front {
+    display: flex;
+    text-decoration:black underline;
+    font-size: 70px;
+    background-image: url(2.jpg);
+    height: 800px;
+    width: 1356px;
+    background-size: auto;
+}
+p {
+    color: yellow;
+}
+textarea {
+    color:black;
+    background-color:pink;
+    text-decoration:purple double underline;
+}
+#greetings {
+    text-decoration: wavy underline ;
+    font-size: 100px;
+}
+body {
+    text-align: center;
+}
+#content {
+    font-size: 60px;
+    text-align: left;
+}
+form {
+    padding-top: 300px;
+    border: 100% solid white;
+    background-image: url(4.jpg);
+    background-size: cover;
+    height: 1500px;
+    width: 1356px;
+}
+header {
+    display: flex;
+    height: 750px;
+    width: 1356px;
+    background-image: url(1.jpg);
+    background-size:auto;
+}
+iframe:hover {
+       border: 10px solid red;
+}
+
+footer{
+    height: 750px;
+    width: 1356px;
+    background-image: url(3.jpg);
+}
+.middle{
+    padding-bottom: 100px;
+}
+
+.resume{
+    height: 900px;
+    width: 600px;
+    background-image: url(resume.png);
+    background-size: auto;
+    border: 4px solid burlywood;
+    padding-right: 80px;
+}
